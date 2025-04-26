@@ -12,7 +12,7 @@ fn main() {
     // unix args
     let mut checked: bool = false;
     let args: Vec<String> = env::args().collect();
-    let project_name = option_env!("PROJECT_NAME").unwrap_or("anicli-es");
+    let project_name = option_env!("PROJECT_NAME").unwrap_or("anicli-es2");
     let mut options = Options::new();
     options.optflag("h", "help", "obtener ayuda para los comandos");
 
