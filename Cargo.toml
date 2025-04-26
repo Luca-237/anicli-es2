@@ -1,0 +1,16 @@
+[package]
+name = "anicli-es"
+version = "0.3.31"
+edition = "2021"
+readme = "./README.md"
+repository = "https://github.com/nolbap/anicli-es"
+homepage = "https://github.com/nolbap/anicli-es"
+license-file = "./LICENSE"
+description = "Herramienta para ver animé, subtitulado al español, en la línea de comandos."
+
+[dependencies]
+base64 = "0.13.0"
+dialoguer = "0.10.2"
+getopts = "0.2"
+regex = "1.5"
+ureq = "2.4.0"
