@@ -1,10 +1,10 @@
 [package]
-name = "anicli-es"
+name = "anicli-es2"
 version = "0.3.31"
-edition = "2021"
+edition = "2025"
 readme = "./README.md"
-repository = "https://github.com/nolbap/anicli-es"
-homepage = "https://github.com/nolbap/anicli-es"
+repository = "https://github.com/Luca-237/anicli-es2"
+homepage = "https://github.com/Luca-237/anicli-es2"
 license-file = "./LICENSE"
 description = "Herramienta para ver animé, subtitulado al español, en la línea de comandos."
 
